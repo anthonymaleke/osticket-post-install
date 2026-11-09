@@ -5,6 +5,7 @@ This project covers the configuration that turns a freshly installed osTicket in
 ## Portfolio Project
 
 **Author:** Anthony Maleke
+
 **Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
 
 ## Video Demonstration
