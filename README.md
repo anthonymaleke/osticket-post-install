@@ -10,7 +10,7 @@ This project covers the configuration that turns a freshly installed osTicket in
 
 **Author:** Anthony Maleke
 
-**Contact:** [Linkedin](https://github.com/anthonymaleke/osticket-prereqs.git)
+**Contact:** [Linkedin](https://www.linkedin.com/in/anthonymaleke/)
 
 ## Video Demonstration
 
