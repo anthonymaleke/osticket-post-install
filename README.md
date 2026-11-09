@@ -166,4 +166,4 @@ After this phase the portal shows six help topics, and each one carries a depart
 
 ## Next Step
 
-Continue to [Part 3: ticket-lifecycle](https://github.com/osticket/ticket-lifecycle).
+Continue to [Part 3: ticket-lifecycle](https://github.com/osticket/osticket-lifecycle).
