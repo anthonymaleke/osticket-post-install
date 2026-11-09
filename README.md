@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # osTicket - Post-Install Configuration
 
 This project covers the configuration that turns a freshly installed osTicket instance into a working IT help desk. It is Part 2 of a three-part series and builds on the Windows Server and IIS environment created in Part 1.
