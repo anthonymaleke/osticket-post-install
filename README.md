@@ -14,7 +14,7 @@ This project covers the configuration that turns a freshly installed osTicket in
 
 ## Video Demonstration
 
-- [YouTube: osTicket Tutorial (Part 2 of 3) - Post-Install Configuration](https://www.youtube.com/watch?v=REPLACE_ME)
+- [YouTube: osTicket Tutorial (Part 2 of 3) - Post-Install Configuration](https://youtu.be/G7Sq66A0vMA)
 
 ## The Series
 
